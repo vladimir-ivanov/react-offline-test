@@ -2,7 +2,7 @@
 
 ## TLDR
 
-* This README describes the test - read it
+* This README describes the test - read it now
 * **Everything** you need to know is in this readme
 * Definitely read the 'What are you looking for in the solution?' bit
 
