@@ -5,7 +5,7 @@ import { EnergyMixes } from './containers/EnergyMixes';
 //todo - add roots/ possibly reducer store and themes - depending on requirements
 export const App = () => (
     <>
-        <TopBar title="energy" />
+        <TopBar title="er" />
         <EnergyMixes />
     </>
 );
